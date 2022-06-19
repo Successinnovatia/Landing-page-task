@@ -444,6 +444,10 @@ footer{
         margin:auto;
     }
 
+    .grow-p{
+        padding-bottom: 20px;
+    }
+
     .grow-img-container{
         width: 90%;
         margin: auto;
@@ -460,6 +464,10 @@ footer{
 
     }
 
+    .flowing-p{
+        padding-bottom: 20px;
+    }
+
     .flowing-img-container{
         width: 90%;
         margin: auto;
@@ -474,6 +482,10 @@ footer{
     .users-text{
         width: 90%;
         margin: auto;
+    }
+
+    .users-p{
+        padding-bottom: 20px;
     }
 
     .users-img-container{
